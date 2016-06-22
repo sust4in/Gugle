@@ -1,0 +1,9 @@
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\bin\Debug\Gugle.exe.config
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\bin\Debug\Gugle.exe
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\bin\Debug\Gugle.pdb
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\bin\Debug\HtmlAgilityPack.dll
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\bin\Debug\HtmlAgilityPack.xml
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\obj\Debug\Gugle.csprojResolveAssemblyReference.cache
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\obj\Debug\Gugle.exe
+C:\Users\can\Documents\Visual Studio 2015\Projects\CaptureUrlAndSave\Gugle\obj\Debug\Gugle.pdb
